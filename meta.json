@@ -3,20 +3,15 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "version": "1.0.0",
-      "releaseDate": "2025-05-08",
-      "releaseType": "release",
-      "changelog": [
-        "🎉 First public beta of OR Beyond!",
-        "✨ Enhanced visuals, audio, UI polish, and performance tweaks",
-        "📦 Visit the Modrinth page: https://modrinth.com/modpack/origin-realms-beyond",
-        "💬 Join our Discord: https://discord.gg/evGvsajjWP"
-      ],
-      "artifacts": [],
-      "links": {
-        "modrinth": "https://modrinth.com/modpack/origin-realms-beyond",
-        "discord": "https://discord.gg/evGvsajjWP"
-      }
+      "id": "1.0.9",
+      "releasedAt": 1715145600000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/origin-realms-beyond",
+          "generic": "https://modrinth.com/modpack/origin-realms-beyond"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
