@@ -3,12 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.9",
+      "id": "1.0.0",
       "releasedAt": 1715145600000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/origin-realms-beyond",
-          "generic": "https://modrinth.com/modpack/origin-realms-beyond"
+          "modrinth": "https://modrinth.com/modpack/origin-realms-beyond"
         }
       },
       "updateType": "minor"
